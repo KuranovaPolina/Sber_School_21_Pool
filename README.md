@@ -7,4 +7,4 @@ Team progects:
  P03D20-0-develop - Polish notation
 
 Individual projects:  
- T02D02-0-develop - bash scripts + work with Vim
+ T02D02-0-develop - bash scripts + work with Vim and another commands 
