@@ -1,7 +1,8 @@
 # P03D20
 Educational project Polish notation from organization «School 21».
 
-***== Develop an src/graph.c program in C for creating graphs of functions defined by arbitrary expressions. To calculate the values ​​of expressions, use Dijkstra's algorithm for translating expressions into Polish notation. The program is assembled using a Makefile. The name of the build stage is all. The executable file must be stored at the root in the build folder named graph. ==***
+* ***Task***
+Develop an src/graph.c program in C for creating graphs of functions defined by arbitrary expressions. To calculate the values ​​of expressions, use Dijkstra's algorithm for translating expressions into Polish notation. The program is assembled using a Makefile. The name of the build stage is all. The executable file must be stored at the root in the build folder named graph.
 
 * ***Conditions***
 
@@ -34,10 +35,6 @@ Translation into Polish notation and calculation using this notation.
 Drawing a graph in the terminal.
 
  library for organizing dynamic data structures (stack, list, etc.).
-
-
-<br/>
-<br/>
 
 ## Important notes:
 
