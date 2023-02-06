@@ -1,11 +1,11 @@
 # P01D06 
 Educational project P01D06 from organization «School 21».
 
-***== Develop an src/pong.c program for a two-player game, 
+Task:
+
+Develop an src/pong.c program for a two-player game, 
 similar to Pong. To display the graphics, only use ASCII characters (with output 
-to the terminal). You need to implement the step-by-step 
-version using only the material of the course studied 
-so far and the standard library.***
+to the terminal).
 
 * ***Keys***:
 
@@ -26,18 +26,12 @@ so far and the standard library.***
 ***When one of the players scores 21 points, congratulations to the winner are displayed on the screen and the game ends.==***
 
 ## Bonus Part:
-***== Quest received. You need to implement interactive version of the PONG (real-time game mode). Additional 
-libraries can be used to simplify the processing of the players' actions and displaying symbolic graphics..==***
+Quest received. You need to implement interactive version of the PONG (real-time game mode). Additional 
+libraries can be used to simplify the processing of the players' actions and displaying symbolic graphics..
 
 ## Important notes:
 
 * The game must be written in C, have a structured style, and run from the terminal; 
-  
-* Your source code will be tested by the static analyzer `cppcheck`, as well as the style linter `cpplint`. 
-  
-* Instructions on how to run these tests on your computer are in the `materials` folder. 
-  
-* We also recommend taking a look at the `code-samples` folder.
 
 * It is forbidden to use dynamic memory
 
