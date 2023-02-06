@@ -49,7 +49,7 @@ Drawing a graph in the terminal.
 
 * Check your program for memory leaks!
 
-> When developing the game, follow 
+* When developing the game, follow 
 the principles of structured programming of E. Dijkstra.
 
 > Possible operations & functions \
