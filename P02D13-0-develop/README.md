@@ -1,7 +1,8 @@
 # P02D13
 Educational project P02D13 from organization «School 21».
 
-***== Quest received. Develop an src/game_of_life.c program in C – a visualization of The Game of Life. To display the graphics, only use ASCII characters (with output to the terminal). You need to implement interactive version of the Game of life. Also create the option for adjusting the speed of the "game". ==***
+Task:
+Develop an src/game_of_life.c program in C – a visualization of The Game of Life. To display the graphics, only use ASCII characters (with output to the terminal). You need to implement interactive version of the Game of life. Also create the option for adjusting the speed of the "game".
 
 * ***Graphics***
 
@@ -12,13 +13,5 @@ Provide for original initialization of the "game" state via stdin. Prepare at le
 ## Important notes:
 
 * The game must be written in C, have a structured style, and run from the terminal; 
-  
-* Your source code will be tested by the static analyzer `cppcheck`, as well as the style linter `cpplint`. 
-  
-* Instructions on how to run these tests on your computer are in the `materials` folder. 
-  
-* Do not use cumbersome functions, limit them up to 40 lines (excluding `main`).
 
-* Check your program for memory leaks!
-
-> When developing the game, follow the principles of structured programming of E. Dijkstra.
+* When developing the game, follow the principles of structured programming of E. Dijkstra.
